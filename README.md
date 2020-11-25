@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+기초공부
+(Management System)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
